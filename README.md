@@ -1,5 +1,5 @@
-#SveltKit: SvelteKi, Tailwind CSS and Vanilla CSS
-#next-blog: NextJs and Vanilla CSS
+# SveltKit: SvelteKi, Tailwind CSS and Vanilla CSS
+# next-blog: NextJs and Vanilla CSS
 
 
 # ReactVS.Svelte
